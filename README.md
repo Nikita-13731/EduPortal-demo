@@ -1,4 +1,4 @@
-# EduPortal | Learn, Code & Grow-demo
+# Education Portal - Frontend Design using AI Tools
 This is my first GitHub Repository.
 <br>
 Author - Nikita Yadav
@@ -6,9 +6,10 @@ Author - Nikita Yadav
 <br>
 Project Description 
 <br>
-Main Features: User friendly and responsive design (HTML5 + CSS3 + JS)
+Technologies: Claude AI (for frontend design automation and rapid prototyping)
+HTML, CSS, JavaScript.
 <br>
-A website that help student to learn code and develop their skills.
+“Developed and designed the frontend of an online education portal to enhance user experience and accessibility for students and educators.”
 <br>
 A responsive and student friendly portal focused on learning coding, aptitude, reasoning, and tracking study progress through a to-do list app.
 <br>
