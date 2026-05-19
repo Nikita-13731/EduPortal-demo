@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>EduPortal | Learn, Code & Grow</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">EduPortal</div>
+    <nav>
+      <ul>
+        <li><a href="#coding">Coding</a></li>
+        <li><a href="#aptitude">Aptitude</a></li>
+        <li><a href="#cbse">CBSE Notes</a></li>
+        <li><a href="#todo">To‑Do</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h1>Welcome to EduPortal</h1>
+    <p>Empowering students to learn coding, reasoning, and succeed academically.</p>
+    <button onclick="scrollToSection('todo')">Start Learning</button>
+  </section>
+
+  <section id="coding">
+    <h2>Learn Coding & Programming</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>Learn HTML</h3>
+        <p>Understand structure, tags, and web page building blocks.</p>
+      </div>
+      <div class="card">
+        <h3>Learn CSS</h3>
+        <p>Style websites and make them responsive beautifully.</p>
+      </div>
+      <div class="card">
+        <h3>Learn JavaScript</h3>
+        <p>Make your web pages interactive and powerful.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="aptitude">
+    <h2>Aptitude & Reasoning</h2>
+    <p>Sharpen your mind with logic and problem-solving exercises.</p>
+    <ul>
+      <li>Quantitative Aptitude Practice</li>
+      <li>Logical Reasoning Challenges</li>
+      <li>Verbal Ability Tests</li>
+    </ul>
+  </section>
+
+  <section id="cbse">
+    <h2>CBSE Notes & Syllabus</h2>
+    <p>Access concise summaries and downloadable CBSE resources.</p>
+    <button onclick="alert('Coming Soon: CBSE Class 9–12 Notes!')">View Notes</button>
+  </section>
+
+  <section id="todo">
+    <h2>Daily Study Tracker</h2>
+    <div class="todo-container">
+      <input type="text" id="todo-input" placeholder="Enter your study task..." />
+      <button id="add-btn">Add Task</button>
+      <ul id="todo-list"></ul>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 EduPortal | Designed for Students</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
