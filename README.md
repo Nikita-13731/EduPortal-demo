@@ -22,3 +22,7 @@ Sections for: Coding & Programming (interactive learning links/resources) Aptitu
 <li>Secure front-end design principles (input validation, localStorage 
 security, sanitization)</li>
 </ul>
+<br>
+ I will later expand this into a full platform with dynamic content 
+(backend, authentication, etc.), but this version gives you a solid and 
+functional front-end foundation.
