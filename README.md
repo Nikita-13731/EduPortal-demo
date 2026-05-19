@@ -19,6 +19,6 @@ Sections for: Coding & Programming (interactive learning links/resources) Aptitu
 <li>CBSE Notes and Textbooks</li>
 <li>Built-in To-Do List App to track daily study goals</li>
 <li>Simple Study Guide/Progress Tips feature</li>
-<li></li>Secure front-end design principles (input validation, localStorage 
+<li>Secure front-end design principles (input validation, localStorage 
 security, sanitization)</li>
 </ul>
